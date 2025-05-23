@@ -1,0 +1,221 @@
+Req ID,Staffing Type,Title (BL),Job Family - Name,Reason for Hire Value,Current Status,# Openings,Req. Creation Date,First Fully Approved Date,Latest On Hold Date,Latest Cancelled Date,Latest Filled Date,Time On Hold Since Creation,Hiring Manager Name,Recruiter Name
+R0001,Professional,Language Executive,"Sales, Marketing & Product Management",New Position,Filled,1,28/1/2020 9:13,28/1/2020 12:19,,,9/7/2020 11:07,0,Miranda Hanson,Ariel Green
+R0002,Professional,Business Analyst,Consulting,Replacement / Backfill,Canceled,2,14/2/2020 18:15,8/4/2020 14:17,22/4/2020 16:43,5/1/2021 15:51,,257.96,Stephanie Simpson,Jodi Robinson
+R0003,Professional,"Manager, Business Applications (Business Intelligence)","IT, Telecom & Internet",Replacement / Backfill,Filled,1,13/3/2020 16:20,8/4/2020 16:24,,,16/6/2020 17:12,0,Vincent Lane,Ariel Green
+R0004,Executives,Service Associate,Operations Management,Replacement / Backfill,Filled,1,30/3/2020 9:58,9/4/2020 19:13,29/5/2020 10:10,,20/7/2020 12:05,18.21,Michael Woodward,Nathaniel Thomas
+R0005,Professional,Supply Planner,Supply Chain,Replacement / Backfill,Deleted,1,31/3/2020 16:20,,,,,0,Joshua Castro,Jodi Robinson
+R0006,Professional,HRBP Manager (Rewards),Human Resources,Replacement / Backfill,Filled,1,11/4/2020 12:36,14/4/2020 19:37,,,18/5/2020 17:05,0,Mary Reyes,Jodi Robinson
+R0007,Professional,"Manager, HR Business Partner",Human Resources,Replacement / Backfill,Filled,1,14/4/2020 17:17,15/4/2020 18:14,,,31/5/2020 22:56,0,Mary Reyes,Jodi Robinson
+R0008,Professional,Operations Executive,Operations Management,Replacement / Backfill,Filled,1,17/4/2020 16:33,22/4/2020 23:23,,,18/5/2020 17:59,0,Caroline Cruz,Nathaniel Thomas
+R0009,Professional,Product Marketing & Management Manager,"Sales, Marketing & Product Management",New Position,Filled,1,24/4/2020 9:38,28/4/2020 1:47,8/6/2020 11:56,,29/6/2020 17:16,9.27,Chelsea Willis,Nathaniel Thomas
+R0010,Professional,Product Marketing Executive,"Sales, Marketing & Product Management",New Position,Filled,1,24/4/2020 11:28,4/6/2020 20:26,24/4/2020 13:11,,20/7/2020 12:02,1.27,Chelsea Willis,Nathaniel Thomas
+R0011,Professional,Product Management Executive,Marketing,New Position,Filled,1,4/5/2020 14:51,30/6/2020 19:39,28/7/2020 12:55,,18/12/2020 15:32,49.2,Brittany Warren,Ariel Green
+R0012,Professional,Business Transformation Manager,Functional Management,Replacement / Backfill,Canceled,1,12/5/2020 15:31,12/5/2020 17:56,27/5/2020 16:33,31/5/2020 22:45,,0.82,Lisa Harper,Jodi Robinson
+R0013,Professional,Accounts Executive,Finance,Replacement / Backfill,Filled,1,12/5/2020 23:10,26/5/2020 23:09,,,21/7/2020 14:50,0,Tracy House,Ariel Green
+R0014,Professional,Senior Channel Account Executive,Sales,Replacement / Backfill,Filled,1,24/5/2020 10:04,8/6/2020 12:39,,,6/7/2020 10:30,0,Timothy Barnett,Nathaniel Thomas
+R0015,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,27/5/2020 12:06,26/6/2020 14:51,29/7/2020 10:14,,3/8/2020 13:27,18.63,Henry Harris,Jodi Robinson
+R0016,Professional,Channel Programs Executive,Sales,Replacement / Backfill,Filled,1,4/6/2020 14:28,4/6/2020 16:14,2/7/2020 15:38,,13/7/2020 9:13,1.03,Timothy Barnett,Jodi Robinson
+R0017,Professional,Business Transformation Executive,Project/Program Management,Replacement / Backfill,Filled,1,12/6/2020 15:49,18/6/2020 22:01,29/7/2020 10:13,,4/8/2020 10:45,16.35,Lisa Harper,Jodi Robinson
+R0018,Professional,Corporate Account Manager,Sales,Replacement / Backfill,Filled,1,18/6/2020 18:02,18/6/2020 21:59,3/7/2020 14:30,,21/7/2020 14:47,6.07,Reginald Padilla,Ariel Green
+R0019,Professional,Senor Project Executive,Program & Project Management - Industry/Specialty,Replacement / Backfill,Canceled,1,19/6/2020 12:23,19/6/2020 13:19,,22/6/2020 16:36,,0,Bernard Holland,Jodi Robinson
+R0020,Professional,Senior Project Executive,Program & Project Management - Industry/Specialty,Replacement / Backfill,Canceled,1,22/6/2020 16:37,,,29/6/2020 16:02,,0,Bernard Holland,Jodi Robinson
+R0021,Professional,Compensation & Benefits cum HR Business Partnering Manager,Human Resources,Replacement / Backfill,Canceled,1,2/7/2020 13:12,2/7/2020 14:38,,25/8/2020 23:15,,0,Mary Reyes,Jodi Robinson
+R0022,Professional,Senior HR Operations Executive,Human Resources,Replacement / Backfill,Filled,1,2/7/2020 22:14,3/7/2020 11:37,,,8/9/2020 15:57,0,Holly Trevino,Jodi Robinson
+R0023,Professional,Senior Project Executive,Program & Project Management - Industry/Specialty,Replacement / Backfill,Canceled,1,6/7/2020 13:40,14/7/2020 14:12,24/9/2020 11:40,5/1/2021 15:57,,103.22,Bernard Holland,Ariel Green
+R0024,Professional,Senior Customer Experience Executive,"Sales, Marketing & Product Management",General/Pipeline,Canceled,1,14/7/2020 11:02,14/7/2020 11:08,,12/8/2020 9:44,,0,Sherry Lloyd,Ariel Green
+R0025,Professional,Senior Project Executive,Program & Project Management - Industry/Specialty,General/Pipeline,Canceled,1,16/7/2020 16:29,16/7/2020 16:32,,16/7/2020 17:21,,0,Bernard Holland,Ariel Green
+R0026,Professional,"Senior Executive, Customer Experience","Sales, Marketing & Product Management",Replacement / Backfill,Filled,1,21/7/2020 15:45,22/7/2020 14:59,29/7/2020 17:21,,31/8/2020 14:00,15.74,Sherry Lloyd,Ariel Green
+R0027,Executives,Credit Officer,Finance,Replacement / Backfill,Filled,1,23/7/2020 9:52,5/8/2020 17:09,,,13/8/2020 12:27,0,Caitlin Contreras,Jodi Robinson
+R0028,Professional,Accounts Executive,Finance,Replacement / Backfill,Filled,1,23/7/2020 11:47,5/8/2020 17:09,,,31/8/2020 13:54,0,Tracy House,Ariel Green
+R0029,Professional,Billing Executive/Specialist,Finance,Replacement / Backfill,Filled,1,5/8/2020 14:39,6/8/2020 12:54,,,29/9/2020 10:45,0,Shannon Harper,Ariel Green
+R0030,Professional,Accountant,Finance and Accounting,Replacement / Backfill,Filled,1,7/8/2020 14:42,11/8/2020 21:33,,,20/10/2020 15:02,0,Tracy House,Ariel Green
+R0031,Professional,Business Process Analyst (ERP),Quality Management,New Position,Filled,1,7/8/2020 16:32,13/8/2020 14:15,,,26/10/2020 12:12,0,Lisa Harper,Jodi Robinson
+R0032,Professional,Project Manager (Microsoft Dynamics 365 ERP),Project/Program Management,New Position,Filled,1,11/8/2020 18:23,13/8/2020 14:14,,,6/10/2020 13:07,0,Brandi Allen,Jodi Robinson
+R0033,Professional,Project Manager (Microsoft Dynamics 365 ERP),Project/Program Management,New Position,On Hold,1,13/8/2020 14:36,13/8/2020 16:53,13/8/2020 17:03,,,412.6,Brandi Allen,Stephanie Pacheco
+R0034,Professional,Business Process Analyst (ERP),Quality Management,New Position,On Hold,1,17/8/2020 15:04,17/8/2020 15:08,22/1/2021 17:20,,,390.46,Lisa Harper,Stephanie Pacheco
+R0035,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,18/8/2020 14:47,9/9/2020 21:19,,,4/11/2020 10:06,0,Henry Harris,Ariel Green
+R0036,Professional,Compensation & Benefits cum HR Operations Manager,Human Resources,Replacement / Backfill,Canceled,1,23/8/2020 23:19,25/8/2020 23:04,5/10/2020 11:50,5/1/2021 15:58,,92.17,Holly Trevino,Jodi Robinson
+R0037,Professional,Service Marketing and Program Manager,Program/Project Management,Replacement / Backfill,Filled,1,26/8/2020 11:04,31/8/2020 18:05,,,15/9/2020 16:37,0,Wendy Wallace,Jodi Robinson
+R0038,Professional,Senior Accountant,Finance and Accounting,Replacement / Backfill,Filled,1,8/9/2020 13:30,9/9/2020 10:49,,,20/10/2020 16:19,0,Denise Ortiz,Ariel Green
+R0039,Professional,Accounts Executive,Finance,Replacement / Backfill,Canceled,1,17/9/2020 15:03,17/9/2020 15:07,20/10/2020 11:01,5/1/2021 16:00,,77.21,Tracy House,Ariel Green
+R0040,Executives,Billing Officer #SGUnited Traineeship,Billing & Payments,New Position,Canceled,1,21/9/2020 15:19,7/10/2020 12:50,,29/12/2020 14:38,,0,Shannon Harper,Ariel Green
+R0041,Executives,Finance Support Analyst #SGUnited Traineeship,Finance and Accounting,New Position,Canceled,1,21/9/2020 15:52,7/10/2020 12:50,,29/12/2020 14:38,,0,Henry Harris,Ariel Green
+R0042,Executives,HR Associate #SGUnited Traineeship,Human Resources,New Position,Filled,1,22/9/2020 13:36,7/10/2020 12:49,,,18/3/2021 15:39,0,Holly Trevino,Jodi Robinson
+R0043,Executives,HR Associate #SGUnited Traineeship,Human Resources,New Position,Filled,1,22/9/2020 13:47,7/10/2020 12:49,,,18/12/2020 10:55,0,Angela Stewart,Ariel Green
+R0044,Executives,Customer Support Analyst #SGUnited Traineeship,Customer Support Center,New Position,Canceled,1,22/9/2020 14:06,7/10/2020 12:48,,19/7/2021 9:49,,0,Linda Douglas,Ariel Green
+R0045,Executives,Customer Support Analyst #SGUnited Traineeship,Customer Support Center,New Position,Filled,1,22/9/2020 14:37,7/10/2020 12:47,,,26/3/2021 13:20,0,Vincent Gilbert,Jodi Robinson
+R0046,Executives,Associate Operations Executivev #SGUnited Traineeship,Back-End Processing Operations,New Position,Canceled,1,22/9/2020 14:42,7/10/2020 12:46,,22/12/2020 16:36,,0,Mr. Calvin Ingram DVM,Ariel Green
+R0047,Executives,Associate Operations Executive #SGUnited Traineeship,Back-End Processing Operations,New Position,Canceled,1,22/9/2020 15:26,7/10/2020 12:46,,22/12/2020 16:35,,0,Jordan Johnson,Ariel Green
+R0048,Executives,Associate Project Executive #SGUnited Traineeship,Program/Project Management,New Position,Filled,1,22/9/2020 15:35,7/10/2020 12:45,,,22/12/2020 16:44,0,Thomas Dean,Ariel Green
+R0049,Executives,Commercial Associate (Visual Communication) #SGUnited Traineeship,"Data Management, Processing & Analytics",New Position,Filled,1,22/9/2020 15:47,7/10/2020 12:44,,,26/3/2021 13:57,0,Kara Cohen,Jodi Robinson
+R0050,Executives,Commercial Associate (Visual Communication) #SGUnited Traineeship,"Data Management, Processing & Analytics",New Position,Canceled,1,22/9/2020 15:53,7/10/2020 12:44,,1/4/2021 13:30,,0,Wendy Wallace,Jodi Robinson
+R0051,Executives,Customer Analytics & Market Insights Associate #SGUnited Traineeship,Marketing,New Position,Canceled,1,22/9/2020 16:00,7/10/2020 12:43,,18/12/2020 15:41,,0,Jeffery Green,Ariel Green
+R0052,Executives,Customer Analytics & Market Insights Associate #SGUnited Traineeship,Marketing,New Position,Canceled,1,22/9/2020 16:07,7/10/2020 12:42,,18/12/2020 15:28,,0,Jeffery Green,Ariel Green
+R0053,Executives,Commercial Associate (Product Marketing) #SGUnited Traineeship,Marketing,New Position,Filled,1,23/9/2020 9:43,7/10/2020 12:42,,,11/1/2021 14:45,0,Chelsea Willis,Ariel Green
+R0054,Executives,Commercial Associate (Product Marketing / Graphic Communications),Marketing,New Position,Filled,1,23/9/2020 9:51,7/10/2020 12:41,22/1/2021 14:52,,3/2/2021 9:40,11.05,Mark Solomon,Ariel Green
+R0055,Executives,Commercial Associate (Product Marketing) #SGUnited Traineeship,Marketing,New Position,Filled,1,23/9/2020 10:04,7/10/2020 12:41,,,11/1/2021 14:44,0,Brittany Warren,Ariel Green
+R0056,Executives,Commercial Associate (Product Marketing) #SGUnited Traineeship,Marketing,New Position,Filled,1,23/9/2020 10:05,7/10/2020 12:40,,,25/3/2021 11:01,0,Wendy Wallace,Jodi Robinson
+R0057,Executives,Commercial Associate (Product Marketing) #SGUnited Traineeship,Marketing,New Position,Filled,1,23/9/2020 10:06,7/10/2020 12:40,,,5/3/2021 17:54,0,John Elliott,Jodi Robinson
+R0058,Executives,Marketing Communication/Systems & Process Associate #SGUnited Traineeship,Marketing,New Position,Canceled,1,23/9/2020 10:08,7/10/2020 12:39,,18/12/2020 15:43,,0,Becky Andrade,Ariel Green
+R0059,Executives,Marketing Communication/Systems & Process Associate #SGUnited Traineeship,Marketing,New Position,Filled,1,23/9/2020 10:10,7/10/2020 12:38,,,18/12/2020 10:59,0,John Elliott,Ariel Green
+R0060,Contingent,Operation Executive,Operations Management,Replacement / Backfill,Canceled,1,29/9/2020 16:51,2/10/2020 19:53,,4/11/2020 12:59,,0,Caroline Cruz,Jodi Robinson
+R0061,Professional,Legal Counsel,"Legal, Compliance & Audit",Replacement / Backfill,Filled,1,1/10/2020 11:25,1/10/2020 18:20,,,9/3/2021 14:14,0,Kaitlyn Olson,Jodi Robinson
+R0062,Professional,HR Operations Executive,Human Resources,Replacement / Backfill,Filled,1,9/10/2020 11:05,20/10/2020 10:42,,,23/10/2020 11:23,0,Holly Trevino,Jodi Robinson
+R0063,Professional,Business Transformation Executive,Project/Program Management,Replacement / Backfill,Filled,1,20/10/2020 12:13,4/11/2020 17:12,,,25/2/2021 14:18,0,Keith Lawrence MD,Ariel Green
+R0064,Professional,Accountant - Senior,Finance and Accounting,Replacement / Backfill,Filled,1,20/10/2020 12:25,30/10/2020 11:04,,,4/11/2020 13:37,0,Denise Ortiz,Jodi Robinson
+R0065,Professional,Senior Accounting Manager,Finance and Accounting,Replacement / Backfill,Filled,1,20/10/2020 12:47,4/11/2020 17:08,,,12/11/2020 14:28,0,Chelsea Hinton,Jodi Robinson
+R0066,Professional,Senior Channel Account Executive,Sales,Replacement / Backfill,Filled,1,29/10/2020 9:36,4/11/2020 17:12,,,8/12/2020 15:52,0,Victor Martinez,Ariel Green
+R0067,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Canceled,1,3/11/2020 12:02,16/11/2020 15:58,,12/1/2021 17:21,,0,Jessica Morales,Ariel Green
+R0068,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,10/11/2020 13:43,16/11/2020 16:52,18/12/2020 15:40,,3/2/2021 11:31,18.04,Daniel Braun,Jodi Robinson
+R0069,Professional,Supply Planner,Supply Chain,Replacement / Backfill,Filled,1,13/11/2020 11:47,13/11/2020 22:02,,,10/3/2021 17:05,0,Damon Bell,Ariel Green
+R0070,Professional,"Senior Executive, Content Marketing Strategy","Sales, Marketing & Product Management",Replacement / Backfill,Filled,1,19/11/2020 15:14,2/12/2020 11:20,22/12/2020 13:46,,8/3/2021 15:24,12.89,Kimberly Mccarty,Ariel Green
+R0071,Pipeline - General,"Manager, Business Consultancy",Consulting,Replacement / Backfill,Canceled,,23/11/2020 15:35,23/11/2020 15:48,,9/12/2020 16:12,,0,Lisa Blackburn,Jodi Robinson
+R0072,Professional,Business Consultant Manager,Consulting,Replacement / Backfill,Filled,1,4/12/2020 14:24,8/12/2020 20:09,,,8/1/2021 10:05,0,Lisa Blackburn,Jodi Robinson
+R0073,Professional,Tax Manager,Finance,Replacement / Backfill,Filled,1,7/12/2020 11:08,10/12/2020 17:29,,,18/2/2021 12:03,0,Mary Garcia,Ariel Green
+R0074,Executives,Business Process Quality - Experienced Professional (P2),Quality Management,Replacement / Backfill,Deleted,1,7/12/2020 14:23,,,,,0,Jonathan Kennedy,Jodi Robinson
+R0075,Executives,Business Process Analyst (O2C) - 1 Year Contract,Quality Management,Replacement / Backfill,Filled,1,7/12/2020 15:03,7/12/2020 16:46,,,5/3/2021 17:47,0,Jonathan Kennedy,Ariel Green
+R0076,Professional,Solution Consultant,Sales,Replacement / Backfill,Filled,1,7/12/2020 15:33,20/1/2021 10:31,,,18/2/2021 13:19,0,Carlos Cannon,Jodi Robinson
+R0077,Professional,Business Process Analyst (ERP),Quality Management,Replacement / Backfill,Filled,1,9/12/2020 16:29,9/12/2020 16:32,,,8/1/2021 9:39,0,Lisa Harper,Jodi Robinson
+R0078,Professional,Service Marketing Executive,Marketing,New Position,Filled,1,9/12/2020 16:57,19/1/2021 11:39,9/2/2021 17:05,,18/2/2021 14:41,1.68,John Elliott,Ariel Green
+R0079,Professional,Corporate Account Manager,Sales,Replacement / Backfill,Filled,1,10/12/2020 13:33,20/1/2021 10:32,,,31/3/2021 16:12,0,Brianna Lee,Jodi Robinson
+R0080,Professional,HR Operations Executive,Human Resources,Replacement / Backfill,Filled,1,10/12/2020 14:16,18/12/2020 15:23,,,31/12/2020 12:24,0,Holly Trevino,Jodi Robinson
+R0081,Professional,Business Analyst,IT Analysis & Design,Replacement / Backfill,Filled,1,24/12/2020 9:52,4/1/2021 13:58,,,26/1/2021 16:17,0,Donna Campbell,Jodi Robinson
+R0082,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Canceled,1,5/1/2021 16:47,14/1/2021 16:27,,22/2/2021 14:55,,0,Henry Harris,Ariel Green
+R0083,Professional,Legal Counsel: General Business,"Legal, Compliance & Audit",Replacement / Backfill,Filled,1,11/1/2021 13:32,25/1/2021 8:17,25/1/2021 17:13,,15/3/2021 14:12,42.86,Kaitlyn Olson,Jodi Robinson
+R0084,Professional,IT & Ops Quality Management Executive,Quality Management,Replacement / Backfill,Canceled,1,13/1/2021 17:36,14/1/2021 16:27,,1/2/2021 11:39,,0,Mr. Calvin Ingram DVM,Ariel Green
+R0085,Executives,Web Publisher (1 Year Contract),"IT, Telecom & Internet",Replacement / Backfill,Filled,1,18/1/2021 15:16,25/1/2021 8:18,,,23/3/2021 10:28,0,George Smith,Ariel Green
+R0086,Professional,"Senior Manager- Product Marketing, Integrated Solutions",Marketing,Replacement / Backfill,Filled,1,19/1/2021 10:01,29/1/2021 13:49,,,23/8/2021 10:38,0,Wendy Wallace,Stephanie Pacheco
+R0087,Professional,Enterprise Account Sales Executive,Sales,Replacement / Backfill,Filled,1,21/1/2021 14:23,26/1/2021 21:26,,,18/2/2021 12:02,0,Nicole Benson,Jodi Robinson
+R0088,Executives,Solutions Specialist,Post Sales (Customer) Support,General/Pipeline,On Hold,1,22/1/2021 19:48,29/1/2021 13:49,19/8/2021 12:30,,,116.71,Tracy Russell,Stephanie Pacheco
+R0089,Professional,Billing Executive/Specialist,Finance,Replacement / Backfill,Filled,1,4/2/2021 17:48,5/2/2021 17:16,,,27/7/2021 17:31,0,Shannon Harper,Stephanie Pacheco
+R0090,Professional,Billing Officer/Executive,Finance,Replacement / Backfill,Canceled,1,9/2/2021 11:18,9/2/2021 17:13,,15/4/2021 10:40,,0,Shannon Harper,Ariel Green
+R0091,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,10/2/2021 10:36,19/2/2021 21:22,26/2/2021 10:21,,10/3/2021 13:17,5.17,Henry Harris,Ariel Green
+R0092,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,10/2/2021 11:17,19/2/2021 21:22,22/2/2021 14:20,,13/7/2021 13:07,2.16,Henry Harris,Stephanie Pacheco
+R0093,Executives,Credit Operations Senior Executive,Finance & Admin,Replacement / Backfill,Filled,1,10/2/2021 11:20,19/2/2021 20:30,,,2/3/2021 12:16,0,Henry Harris,Ariel Green
+R0094,Professional,"Associate Manager, Integrated Marketing",Marketing,Replacement / Backfill,Filled,1,11/2/2021 10:27,15/3/2021 11:49,,,27/5/2021 10:12,0,John Elliott,Ariel Green
+R0095,Professional,"Senior Analyst, Corporate Planning",Finance,Replacement / Backfill,Deleted,1,16/2/2021 16:19,,,,,0,Sandra Stewart,Ariel Green
+R0096,Professional,"Senior Analyst, Corporate Planning",Finance,Replacement / Backfill,Filled,1,16/2/2021 17:27,16/2/2021 17:59,,,7/4/2021 13:21,0,Sandra Stewart,Ariel Green
+R0097,Professional,"Associate Manager, Internal Audit","Legal, Compliance & Audit",Replacement / Backfill,Filled,1,17/2/2021 10:04,18/2/2021 10:00,,,10/3/2021 13:36,0,Sharon Garrett,Ariel Green
+R0098,Professional,Senior HR Operations Executive,Human Resources,Replacement / Backfill,Filled,1,17/2/2021 13:32,18/2/2021 16:21,,,9/4/2021 16:20,0,Holly Trevino,Stephanie Pacheco
+R0099,Professional,Enterprise Account Manager (Strategic),Sales,New Position,Canceled,1,18/2/2021 12:02,24/2/2021 22:11,,11/3/2021 10:57,,0,Scott Brown,Jodi Robinson
+R0100,Professional,Enterprise Account Manager,Sales,New Position,Canceled,1,18/2/2021 12:08,24/2/2021 22:11,25/2/2021 17:13,11/3/2021 10:57,,3.83,Erica Paul,Jodi Robinson
+R0101,Professional,Collections Manager,Finance,Replacement / Backfill,Filled,1,18/2/2021 13:47,19/2/2021 21:21,26/2/2021 13:40,,10/3/2021 14:39,4.9,Chelsea Hinton,Jodi Robinson
+R0102,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,22/2/2021 14:47,22/2/2021 14:52,22/2/2021 14:58,,2/3/2021 12:15,1.83,Henry Harris,Ariel Green
+R0103,Professional,Finance Manager,Finance and Accounting,Replacement / Backfill,Filled,1,22/2/2021 17:12,17/3/2021 10:43,18/3/2021 15:24,,7/4/2021 12:43,13.93,Chelsea Hinton,Ariel Green
+R0104,Professional,Market Development Manager,"Sales, Marketing & Product Management",New Position,Filled,1,23/2/2021 17:43,25/2/2021 10:02,,,27/4/2021 13:26,0,David Thomas,Stephanie Pacheco
+R0105,Professional,Language Terminology Executive,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,24/2/2021 9:04,25/2/2021 15:47,,,,0,Miranda Hanson,Stephanie Pacheco
+R0106,Professional,Business Analyst,IT Analysis & Design,New Position,Filled,1,26/2/2021 18:19,17/3/2021 10:43,,,4/6/2021 18:00,0,Donna Campbell,Ariel Green
+R0107,Pipeline - General,Finance Manager,Finance,Replacement / Backfill,Canceled,,3/3/2021 15:20,3/3/2021 15:24,,1/4/2021 13:33,,0,Chelsea Hinton,Jodi Robinson
+R0108,Professional,"Executive, Systems and Processes",Sales Operations,Replacement / Backfill,Canceled,1,4/3/2021 9:38,10/3/2021 12:56,,15/3/2021 13:00,,0,Becky Andrade,Ariel Green
+R0109,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,9/3/2021 11:29,17/3/2021 10:43,,,27/5/2021 11:28,0,Daniel Braun,Stephanie Pacheco
+R0110,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,9/3/2021 11:31,16/3/2021 20:27,,,31/3/2021 16:03,0,Daniel Braun,Jodi Robinson
+R0111,Professional,Corporate Account Manager,Sales,Replacement / Backfill,Filled,1,10/3/2021 16:00,18/3/2021 16:43,,,25/3/2021 12:50,0,Reginald Padilla,Jodi Robinson
+R0112,Professional,Business Support Executive (Bulk Deal),Marketing,Replacement / Backfill,Filled,1,12/3/2021 10:55,15/3/2021 14:11,,,8/9/2021 9:46,0,Stephanie Gomez,Stephanie Pacheco
+R0113,Professional,"Executive, Systems and Processes (SFDC)",Sales Operations,Replacement / Backfill,Filled,1,15/3/2021 12:54,24/3/2021 18:32,,,17/5/2021 14:54,0,Becky Andrade,Stephanie Pacheco
+R0114,Professional,HR Executive (Payroll),Human Resources,Replacement / Backfill,Filled,1,15/3/2021 16:29,16/3/2021 17:49,,,7/4/2021 12:46,0,Holly Trevino,Ariel Green
+R0115,Executives,Supply Planner,Supply Chain,Replacement / Backfill,Filled,1,15/3/2021 17:34,17/3/2021 8:57,,,31/3/2021 8:45,0,George Cohen,Ariel Green
+R0116,Professional,Finance Manager,Finance and Accounting,Replacement / Backfill,Filled,1,15/3/2021 18:57,18/3/2021 13:51,,,11/8/2021 11:24,0,Chelsea Wells,Stephanie Pacheco
+R0117,Professional,Senior Accountant,Finance and Accounting,Replacement / Backfill,Filled,1,17/3/2021 18:23,19/3/2021 11:25,,,25/8/2021 14:09,0,Chelsea Wells,Stephanie Pacheco
+R0118,Executives,Finance Executive - SGUnited,Finance,Replacement / Backfill,Filled,1,18/3/2021 10:45,22/3/2021 16:13,,,24/3/2021 14:11,0,Chelsea Wells,Jodi Robinson
+R0119,Executives,Finance Executive - SGUnited,Finance,Replacement / Backfill,Filled,1,18/3/2021 11:21,22/3/2021 16:12,,,24/3/2021 14:10,0,Chelsea Wells,Jodi Robinson
+R0120,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Canceled,1,19/3/2021 15:30,24/3/2021 18:49,,23/7/2021 10:48,,0,Henry Harris,Ariel Green
+R0121,Professional,Business Development Strategy & Planning - Specialist Professional (P4),"Sales, Marketing & Product Management",Replacement / Backfill,Deleted,1,22/3/2021 22:06,,,,,0,Alexandra Mendoza,Ariel Green
+R0122,Professional,Regional Solution Consultant Manager,"Sales, Marketing & Product Management",New Position,Sourcing,1,24/3/2021 16:25,25/3/2021 16:59,,,,0,Alexandra Mendoza,Laura Phillips
+R0123,Professional,Senior Project Executive,Program & Project Management - Industry/Specialty,Replacement / Backfill,Canceled,1,26/3/2021 10:20,19/4/2021 17:38,,21/4/2021 16:34,,0,Bernard Holland,Stephanie Pacheco
+R0124,Professional,Project Manager,Program & Project Management - Industry/Specialty,Replacement / Backfill,Sourcing,1,26/3/2021 10:37,28/3/2021 12:34,,,,0,Bernard Holland,Laura Phillips
+R0125,Professional,Customer Service Engineer,Post Sales (Customer) Support,Replacement / Backfill,Sourcing,1,26/3/2021 16:56,29/3/2021 16:05,1/4/2021 10:25,,,5.06,Dawn Ramos,Laura Phillips
+R0126,Executives,Business Process Analyst (O2O) - 1 Year Contract,Quality Management,Replacement / Backfill,Filled,1,29/3/2021 10:05,5/4/2021 9:35,,,11/5/2021 12:00,0,Katelyn Kim,Stephanie Pacheco
+R0127,Professional,Regional Procurement Executive,Procurement,Replacement / Backfill,Filled,1,29/3/2021 10:24,5/4/2021 9:35,,,14/9/2021 15:56,0,Sarah Nunez,Laura Phillips
+R0128,Professional,Regulatory Compliance Executive,Engineering & Science,Replacement / Backfill,Filled,1,29/3/2021 16:18,31/3/2021 9:19,,,12/5/2021 13:12,0,Frederick Gibbs,Stephanie Pacheco
+R0129,Professional,Product Marketing Executive,"Sales, Marketing & Product Management",New Position,Canceled,1,1/4/2021 10:19,,,12/4/2021 11:29,,0,Chelsea Willis,Stephanie Pacheco
+R0130,Professional,Executive Secretary I,Administration & Secretarial,Replacement / Backfill,Canceled,1,7/4/2021 11:34,,,14/4/2021 13:47,,0,Lisa Blackburn,Ariel Green
+R0131,Hourly,HR Business Partner,Human Resources,Replacement / Backfill,Canceled,1,8/4/2021 14:43,16/4/2021 9:15,,16/6/2021 16:00,,0,Holly Trevino,Ariel Green
+R0132,Executives,Credit Operations Officer,Finance & Admin,Replacement / Backfill,Filled,1,12/4/2021 9:28,12/4/2021 10:10,,,11/6/2021 16:47,0,Jessica Booth,Stephanie Pacheco
+R0133,Professional,Senior Technical Presales Consultant,Project/Program Management,Replacement / Backfill,Filled,1,14/4/2021 11:08,14/4/2021 14:10,,,25/8/2021 16:27,0,Duane Smith,Stephanie Pacheco
+R0134,Professional,Senior/ Technical Implementation Consultant,Project/Program Management,Replacement / Backfill,Filled,1,14/4/2021 12:00,16/4/2021 11:51,,,28/7/2021 18:38,0,Duane Smith,Stephanie Pacheco
+R0135,Professional,Operations Executive,Operations Management,Replacement / Backfill,Deleted,1,15/4/2021 16:43,,,,,0,Caroline Cruz,Stephanie Pacheco
+R0136,Professional,Market Development Executive,"Sales, Marketing & Product Management",New Position,Filled,1,15/4/2021 17:12,21/4/2021 14:53,,,21/7/2021 15:51,0,David Thomas,Stephanie Pacheco
+R0137,Executives,Operations Executive,Operations Management,Replacement / Backfill,Filled,1,16/4/2021 10:37,17/4/2021 17:15,,,11/6/2021 11:49,0,Amy Olson,Stephanie Pacheco
+R0138,Executives,Credit Operations Executive,Finance & Admin,Replacement / Backfill,Canceled,1,19/4/2021 15:25,23/4/2021 10:53,,8/9/2021 17:35,,0,Jessica Booth,Ariel Green
+R0139,Professional,Regional Business Manager - Commercial Printing,"Sales, Marketing & Product Management",New Position,On Hold,1,19/4/2021 15:32,20/4/2021 15:43,20/8/2021 12:52,,,40.78,Stephanie Ballard,Laura Phillips
+R0140,Professional,Business Manager,Sales,Replacement / Backfill,Deleted,1,22/4/2021 9:40,,,,,0,Donald White,Stephanie Pacheco
+R0141,Professional,Senior Digital Marketing Executive,Marketing,Replacement / Backfill,Filled,1,23/4/2021 9:38,12/5/2021 11:07,,,2/6/2021 16:47,0,John Elliott,Stephanie Pacheco
+R0142,Professional,Supply Planner,Supply Chain,Replacement / Backfill,Filled,1,25/4/2021 18:01,26/4/2021 21:44,,,4/6/2021 14:13,0,James Swanson,Stephanie Pacheco
+R0143,Professional,HR Executive (Payroll),Human Resources,Replacement / Backfill,Filled,1,27/4/2021 14:51,28/4/2021 11:01,,,6/5/2021 13:11,0,Holly Trevino,Ariel Green
+R0144,Executives,Sales Executive,Sales,Replacement / Backfill,Deleted,1,27/4/2021 18:28,,,,,0,Brianna Lee,Stephanie Pacheco
+R0145,Executives,Systems Engineer,Post Sales (Customer) Support,Replacement / Backfill,Filled,1,28/4/2021 9:25,6/5/2021 17:45,,,11/6/2021 11:59,0,Natalie Wilson,Stephanie Pacheco
+R0146,Professional,Corporate Account Manager,Sales,Replacement / Backfill,Canceled,1,28/4/2021 10:47,7/5/2021 15:30,,9/7/2021 13:22,,0,John Graves,Stephanie Pacheco
+R0147,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Deleted,1,28/4/2021 11:28,,,,,0,Anthony Page,Stephanie Pacheco
+R0148,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,28/4/2021 11:40,7/5/2021 15:30,,,2/6/2021 16:37,0,Anthony Page,Stephanie Pacheco
+R0149,Professional,Product Management Executive,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,29/4/2021 9:02,12/5/2021 11:07,,,,0,Chelsea Willis,Stephanie Pacheco
+R0150,Professional,Sales Executive,Sales,Replacement / Backfill,Filled,1,2/5/2021 14:16,7/5/2021 15:30,,,18/5/2021 14:30,0,Brianna Lee,Stephanie Pacheco
+R0151,Professional,Major Account Manager,Sales,Replacement / Backfill,Filled,1,3/5/2021 15:18,5/5/2021 20:49,,,17/6/2021 11:43,0,Marissa Oliver,Stephanie Pacheco
+R0152,Professional,"Manager, HR Business Partner",Human Resources,Replacement / Backfill,Filled,1,6/5/2021 17:53,7/5/2021 15:47,,,25/5/2021 13:36,0,Holly Trevino,Stephanie Pacheco
+R0153,Executives,L&D Assistant,Human Resources,Replacement / Backfill,Deleted,1,7/5/2021 9:24,,,,,0,Austin Perez,Stephanie Pacheco
+R0154,Professional,Business Consulting Manager,Consulting,Replacement / Backfill,Filled,1,8/5/2021 14:59,18/5/2021 17:44,,,23/9/2021 16:45,0,Christopher Wright,Stephanie Pacheco
+R0155,Executives,Training & Development Delivery - Entry Professional (P1),Human Resources,Replacement / Backfill,Filled,1,11/5/2021 10:12,11/5/2021 10:53,,,8/7/2021 17:10,0,Austin Perez,Stephanie Pacheco
+R0156,Professional,Senior Systems Analyst,"IT, Telecom & Internet",Replacement / Backfill,Sourcing,1,17/5/2021 13:29,8/6/2021 10:03,,,,0,Linda Dickson,Stephanie Pacheco
+R0157,Executives,Credit Operations Executive,Finance & Admin,Replacement / Backfill,Canceled,1,20/5/2021 14:07,26/5/2021 14:09,,23/7/2021 10:48,,0,Jessica Booth,Stephanie Pacheco
+R0158,Professional,Supply and Demand Analyst,Supply Chain,New Position,Canceled,2,20/5/2021 15:01,21/5/2021 8:47,,27/8/2021 10:09,,0,Jacqueline Carlson,Laura Phillips
+R0159,Executives,Finance Assistant,Finance,Replacement / Backfill,Filled,1,24/5/2021 9:34,3/6/2021 9:07,,,23/7/2021 11:19,0,Chelsea Wells,Stephanie Pacheco
+R0160,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,27/5/2021 11:22,5/6/2021 14:34,,,8/6/2021 14:17,0,Daniel Braun,Stephanie Pacheco
+R0161,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,27/5/2021 11:22,31/5/2021 20:23,,,28/9/2021 13:05,0,Scott Brown,Stephanie Pacheco
+R0162,Professional,Planner,Supply Chain,Replacement / Backfill,Filled,1,27/5/2021 14:58,27/5/2021 15:42,,,10/6/2021 18:37,0,Jamie Goodwin,Stephanie Pacheco
+R0163,Professional,Enterprise Account Manager,Sales,Replacement / Backfill,Filled,1,31/5/2021 14:37,16/6/2021 20:15,,,12/8/2021 10:03,0,Anthony Page,Stephanie Pacheco
+R0164,Professional,"Senior Executive, Brand & Communications",Marketing,Replacement / Backfill,Filled,1,31/5/2021 16:04,4/6/2021 10:30,,,12/7/2021 16:45,0,Kara Cohen,Stephanie Pacheco
+R0165,Professional,Senior sales trainer,Human Resources,Replacement / Backfill,Filled,1,2/6/2021 20:56,3/6/2021 8:42,,,30/8/2021 11:45,0,Scott Gordon,Stephanie Pacheco
+R0166,Executives,Service Delivery Manager,"IT, Telecom & Internet",Replacement / Backfill,Filled,1,4/6/2021 12:30,7/6/2021 13:37,,,28/7/2021 18:32,0,Gloria Brock,Stephanie Pacheco
+R0167,Professional,Senior Technical Specialist,"IT, Telecom & Internet",Replacement / Backfill,Sourcing,1,4/6/2021 15:11,7/6/2021 13:39,,,,0,Kenneth Wilkinson,Stephanie Pacheco
+R0168,Professional,LSS Six Sigma Manager,Quality Management,Replacement / Backfill,Sourcing,1,4/6/2021 15:00,7/6/2021 14:32,,,,0,Brian Wallace,Stephanie Pacheco
+R0169,Executives,Technical Specialist,"IT, Telecom & Internet",Replacement / Backfill,Sourcing,1,7/6/2021 8:58,7/6/2021 13:36,,,,0,Leslie Church,Stephanie Pacheco
+R0170,Professional,HR Business Partner,Human Resources,Replacement / Backfill,Sourcing,1,7/6/2021 13:51,9/6/2021 14:20,17/8/2021 10:16,,,15.03,Holly Trevino,Laura Phillips
+R0171,Executives,HR Associate #SGUnited Traineeship,Human Resources,New Position,Filled,1,7/6/2021 14:40,15/6/2021 14:09,,,8/7/2021 16:26,0,Holly Trevino,Stephanie Pacheco
+R0172,Professional,Corporate Account Manager,Sales,Replacement / Backfill,Filled,1,9/6/2021 10:17,14/6/2021 16:20,,,26/8/2021 10:45,0,Reginald Padilla,Stephanie Pacheco
+R0173,Professional,Solution Leads Manager,"IT, Telecom & Internet",New Position,On Hold,1,11/6/2021 17:18,14/6/2021 9:29,22/9/2021 11:59,,,7.81,Brandi Allen,Stephanie Pacheco
+R0174,Professional,Pricing Executive,"Sales, Marketing & Product Management",Replacement / Backfill,Filled,1,15/6/2021 16:22,15/6/2021 16:46,,,8/9/2021 17:22,0,Michael Garcia,Stephanie Pacheco
+R0175,Professional,Senior Systems Analyst (BIS),"IT, Telecom & Internet",Replacement / Backfill,Filled,1,30/6/2021 10:33,30/6/2021 11:11,,,30/8/2021 12:25,0,Joel Schwartz,Stephanie Pacheco
+R0176,Professional,Global Client Manager (Financial Services Industry),"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,6/7/2021 12:24,8/7/2021 9:41,,,,0,Darren Davis,Laura Phillips
+R0177,Professional,Global Client Manager (Industrials - Manufacturing & Pharma),"Sales, Marketing & Product Management",Replacement / Backfill,Approved,1,7/7/2021 18:34,8/7/2021 8:53,,,,0,David Miller,Laura Phillips
+R0178,Professional,Global Client Manager (Industrials - Manufacturing & Pharma),"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,9/7/2021 15:25,13/7/2021 12:57,,,,0,David Miller,Laura Phillips
+R0179,Professional,Senior / Project Executive,Program/Project Management,Replacement / Backfill,Filled,1,9/7/2021 17:42,14/7/2021 9:43,,,23/8/2021 10:36,0,Thomas Dean,Stephanie Pacheco
+R0180,Professional,"Executive, Channel Programs",Sales Operations,Replacement / Backfill,Sourcing,1,13/7/2021 14:35,16/7/2021 9:20,17/8/2021 11:45,,,43.12,Michael Lambert PhD,Stephanie Pacheco
+R0181,Professional,Service Development Manager,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,14/7/2021 13:30,14/7/2021 15:41,,,,0,Bryan Moore,Laura Phillips
+R0182,Executives,Business Analyst,Consulting,Replacement / Backfill,Sourcing,1,19/7/2021 13:43,30/8/2021 18:08,,,,0,Christopher Wright,Laura Phillips
+R0183,Professional,Financial Planning & Analysis (FP&A) Executive,Finance,Replacement / Backfill,To Be Approved,1,19/7/2021 14:20,,,,,0,Cynthia Moore,Laura Phillips
+R0184,Executives,Service Delivery Manager,"IT, Telecom & Internet",New Position,Filled,1,19/7/2021 14:17,21/7/2021 14:22,,,6/8/2021 11:50,0,Gloria Brock,Stephanie Pacheco
+R0185,Executives,Supply Planner,Supply Chain,Replacement / Backfill,Filled,1,21/7/2021 8:35,21/7/2021 9:39,,,31/8/2021 14:54,0,George Cohen,Laura Phillips
+R0186,Executives,Service Transition Manager,"IT, Telecom & Internet",New Position,Sourcing,1,21/7/2021 12:44,21/7/2021 14:14,,,,0,Brenda Cannon,Laura Phillips
+R0187,Professional,Business Manager,Sales,Replacement / Backfill,Sourcing,1,22/7/2021 17:10,22/7/2021 17:59,,,,0,Nicole Benson,Stephanie Pacheco
+R0188,Professional,"Project Management Manager, earth Project",Project/Program Management,Replacement / Backfill,Sourcing,1,23/7/2021 13:08,27/7/2021 10:34,,,,0,Deanna Wagner,Stephanie Pacheco
+R0189,Professional,Sales Planning Senior Executive,Sales Operations,Replacement / Backfill,On Hold,1,26/7/2021 16:28,26/7/2021 21:12,8/9/2021 13:52,,,21.73,Becky Andrade,Stephanie Pacheco
+R0190,Professional,Service Development Manager,"Sales, Marketing & Product Management",Replacement / Backfill,On Hold,1,26/7/2021 17:43,28/7/2021 18:15,17/8/2021 11:05,,,43.85,Bryan Moore,Stephanie Pacheco
+R0191,Professional,Innovation Program Manager,"Sales, Marketing & Product Management",Replacement / Backfill,Filled,1,26/7/2021 17:53,28/7/2021 18:12,,,27/9/2021 9:05,0,Bryan Moore,Laura Phillips
+R0192,Professional,"Senior Executive, Business Process Standardization",Finance,New Position,Filled,1,28/7/2021 16:23,28/7/2021 18:08,,,16/9/2021 15:32,0,Nina Olson,Laura Phillips
+R0193,Professional,Corporate Account Executive,Sales,Replacement / Backfill,Filled,1,28/7/2021 17:46,20/8/2021 12:18,,,8/9/2021 17:24,0,Jonathan Martin,Stephanie Pacheco
+R0194,Professional,Senior Financial Planning & Analysis (FP&A) Executive,Finance,Replacement / Backfill,Sourcing,1,28/7/2021 18:42,3/8/2021 14:40,,,,0,Cynthia Moore,Laura Phillips
+R0195,Professional,Senior/ HR Executive (Payroll),Human Resources,Replacement / Backfill,Sourcing,1,30/7/2021 10:37,3/8/2021 15:45,30/8/2021 13:39,,,6.93,Maurice Richmond,Laura Phillips
+R0196,Professional,Product Marketing Senior / Executive,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,2/8/2021 11:51,16/8/2021 20:18,,,,0,Chelsea Willis,Stephanie Pacheco
+R0197,Professional,Legal Counsel,"Legal, Compliance & Audit",Replacement / Backfill,Sourcing,1,3/8/2021 16:04,10/8/2021 17:41,,,,0,Kaitlyn Olson,Stephanie Pacheco
+R0198,Professional,"Manager, Business Process Standardization",Finance,New Position,Filled,1,4/8/2021 11:18,4/8/2021 20:10,,,21/9/2021 10:39,0,Nina Olson,Laura Phillips
+R0199,Professional,Accountant,Finance,Replacement / Backfill,Sourcing,1,10/8/2021 19:28,11/8/2021 16:26,,,,0,Chelsea Wells,Stephanie Pacheco
+R0200,Hourly,Account Assistant,Finance,Replacement / Backfill,Sourcing,1,10/8/2021 19:37,11/8/2021 16:23,,,,0,Chelsea Wells,Stephanie Pacheco
+R0201,Executives,O2O Business Process Deployment Executive,Quality Management,Replacement / Backfill,Sourcing,1,11/8/2021 13:32,11/8/2021 14:47,,,,0,Katelyn Kim,Laura Phillips
+R0202,Professional,Deal Management Associate Manager/Senior Analyst,"Sales, Marketing & Product Management",New Position,Sourcing,1,11/8/2021 15:45,16/8/2021 20:18,,,,0,Denise Collins,Laura Phillips
+R0203,Professional,Senior Business Analyst,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,11/8/2021 15:48,12/8/2021 16:09,,,,0,Duane Smith,Stephanie Pacheco
+R0204,Professional,Presales Consultant,"Sales, Marketing & Product Management",Replacement / Backfill,Deleted,1,11/8/2021 17:13,,,,,0,Katherine Guerrero,Stephanie Pacheco
+R0205,Professional,Associate Director,Marketing,New Position,Filled,1,13/8/2021 15:49,14/8/2021 0:06,,,30/8/2021 10:08,0,Sandra Lawrence,Stephanie Pacheco
+R0206,Professional,Senior Manager Services Consultant,Sales,New Position,Approved,1,13/8/2021 18:37,19/8/2021 20:54,,,,0,Robert Espinoza,Stephanie Pacheco
+R0207,Professional,Senior Office Business Strategy & Planning Executive,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,16/8/2021 15:52,16/8/2021 18:35,,,,0,Richard Mata,Stephanie Pacheco
+R0208,Executives,Web Publisher,"IT, Telecom & Internet",Replacement / Backfill,Filled,1,17/8/2021 11:10,17/8/2021 15:30,,,2/9/2021 15:26,0,Amy Phelps,Stephanie Pacheco
+R0209,Professional,Presales Consultant,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,17/8/2021 11:22,18/8/2021 9:42,,,,0,Katherine Guerrero,Stephanie Pacheco
+R0210,Professional,Business Support Executive (Bulk Deal),"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,17/8/2021 21:50,18/8/2021 9:58,,,,0,Stephanie Gomez,Laura Phillips
+R0211,Professional,Office Solution Marketing Manager,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,18/8/2021 18:38,19/8/2021 9:05,,,,0,Jason Todd,Laura Phillips
+R0212,Professional,Customer Service Engineer,Engineering,Replacement / Backfill,On Hold,1,20/8/2021 12:22,30/8/2021 20:48,28/9/2021 16:31,,,1.62,Taylor Gallagher,Laura Phillips
+R0213,Professional,Solution Marketing Manager,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,25/8/2021 22:45,27/8/2021 17:09,,,,0,Kaitlyn Costa,Laura Phillips
+R0214,Professional,Supply Planner,Supply Chain,Replacement / Backfill,Sourcing,1,8/9/2021 8:33,8/9/2021 10:12,,,,0,Damon Bell,Laura Phillips
+R0215,Professional,Accountant,Finance,Replacement / Backfill,To Be Approved,1,9/9/2021 10:20,,,,,0,Chelsea Wells,Stephanie Pacheco
+R0216,Professional,Financial Analyst,"Sales, Marketing & Product Management",Replacement / Backfill,Sourcing,1,16/9/2021 18:10,23/9/2021 9:33,,,,0,Thomas Cross,Stephanie Pacheco
+R0217,Executives,Systems Engineer,Post Sales (Customer) Support,Replacement / Backfill,On Hold,1,20/9/2021 9:19,24/9/2021 16:03,29/9/2021 16:00,,,0.65,Natalie Wilson,Laura Phillips
+R0218,Professional,Business Development Consultant (eDelivery Services),Sales,New Position,Sourcing,1,21/9/2021 10:08,21/9/2021 11:38,,,,0,Robert Espinoza,Stephanie Pacheco
+R0219,Professional,Principal Consultant,Sales,Replacement / Backfill,Approved,1,21/9/2021 20:58,29/9/2021 15:53,,,,0,Alexandria Taylor,Stephanie Pacheco
+R0220,Professional,Major Account Sales Executive,Sales,Replacement / Backfill,Sourcing,,24/9/2021 15:34,24/9/2021 19:45,,,,0,Marissa Oliver,Stephanie Pacheco
